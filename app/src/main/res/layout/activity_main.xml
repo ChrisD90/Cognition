@@ -10,6 +10,7 @@
         android:id="@+id/btn_liga3"
         android:layout_width="165dp"
         android:layout_height="44dp"
+        android:onClick="Liga3Activity"
         android:text="3. Bundesliga"
         tools:layout_editor_absoluteX="110dp"
         tools:layout_editor_absoluteY="92dp" />

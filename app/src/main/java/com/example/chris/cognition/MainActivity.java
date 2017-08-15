@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void onCreate (View v)
+    public void toLiga3Activity (View v) {
+
+}
 }

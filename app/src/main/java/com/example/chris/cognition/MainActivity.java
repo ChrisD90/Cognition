@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, Liga3Activity.class);
         startActivity(intent);
 }
+    public void toLiga2Activity (View v) {
+        Intent intent = new Intent(this, Liga2Activity.class);
+        startActivity(intent);
+    }
 }
